@@ -1,3 +1,4 @@
+#Taller midi hecho por Santiago Hernández Facio Lince 201922432
 import mido
 import optparse
 parse = optparse.OptionParser()

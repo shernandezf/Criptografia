@@ -1,6 +1,6 @@
 from mido import MidiFile
 
-midi = MidiFile('piratasMod.mid', clip=True)
+midi = MidiFile('vampireMod.mid', clip=True)
 #index=0
 #for msg in midi.tracks[1]:
 #    if msg.type=="note_on":
